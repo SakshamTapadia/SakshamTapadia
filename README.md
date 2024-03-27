@@ -6,7 +6,7 @@
 
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamTapadia&show_icons=true&theme=radical)
 # 💫 About Me:
-🔭 I’m currently working on FaceApp.<br>🌱 I’m currently learning Data Science and Data Analytics.<br>💬 Ask me about Python and Big Data Technologies<br>⚡ Fun fact, I am a E-Gamer too.<br>
+🌱 I’m currently learning Data Science and Data Analytics.<br>💬 Ask me about Python and Big Data Technologies<br>⚡ Fun fact, I am a E-Gamer too.<br>
 
 
 ## 🌐 Socials:
