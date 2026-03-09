@@ -1,0 +1,61 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # ── General stats card ────────────────────────────────────────────────
+      - name: Stats (general)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-stats.svg
+          user: sakshamtapadia
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_order: base.header, base.activity, base.community, base.repositories
+
+      # ── Top languages card ────────────────────────────────────────────────
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-langs.svg
+          user: sakshamtapadia
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+      # ── Achievements / trophies ───────────────────────────────────────────
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-achievements.svg
+          user: sakshamtapadia
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0

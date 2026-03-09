@@ -123,20 +123,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshamtapadia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamtapadia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/main/assets/metrics-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamtapadia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img width="98%" src="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/main/assets/metrics-stats.svg" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshamtapadia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img width="98%" src="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/main/assets/metrics-achievements.svg" alt="Achievements" />
 </p>
 
 ---
