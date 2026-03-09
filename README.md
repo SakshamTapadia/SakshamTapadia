@@ -1,62 +1,253 @@
-<h1 align="center">Hi 👋, I'm Saksham Tapadia</h1>
-<h3 align="center">A passionate data professional and a tech enthusiast</h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saksham%20Tapadia&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamtapadia" alt="sakshamtapadia" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/saksham_tapadia" target="blank"><img src="https://img.shields.io/twitter/follow/saksham_tapadia?logo=twitter&style=for-the-badge" alt="saksham_tapadia" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning Projects and DSA**
-
-- 🌱 I’m currently learning **DSA and Data Analytics**
-
-- 👯 I’m looking to connect with **Software and Big Data Professionals**
-
-- 🤝 I’m looking for helping people with **Data Science and Analytics and ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SakshamTapadia](https://github.com/SakshamTapadia)
-
-- 📸 I regularly post on [https://medium.com/@sakshamtapadia10](https://medium.com/@sakshamtapadia10)
-
-- 💬 Ask me about **Anything you like in tech!**
-
-- 📫 How to reach me **sakshamtapadia10@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NDTlpQdt2NhkJa0sJeIMQHg7KVAHfxPr/view?usp=drive_link](https://drive.google.com/file/d/1NDTlpQdt2NhkJa0sJeIMQHg7KVAHfxPr/view?usp=drive_link)
-
-- ⚡ Fun fact **I love Music and Tech!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sakshamtapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sakshamtapadia" height="30" width="40" /></a>
-<a href="https://dev.to/saksham_tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saksham_tapadia" height="30" width="40" /></a>
-<a href="https://twitter.com/saksham_tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saksham_tapadia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saksham-tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-tapadia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22549691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22549691" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sakshamtapadia02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sakshamtapadia02" height="30" width="40" /></a>
-<a href="https://kaggle.com/sakshamtapadia02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakshamtapadia02" height="30" width="40" /></a>
-<a href="https://fb.com/saksham.tapadia.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saksham.tapadia.10" height="30" width="40" /></a>
-<a href="https://instagram.com/saksham_tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham_tapadia" height="30" width="40" /></a>
-<a href="https://dribbble.com/saksham_tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="saksham_tapadia" height="30" width="40" /></a>
-<a href="https://hashnode.com/@saksham-tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@saksham-tapadia" height="30" width="40" /></a>
-<a href="https://medium.com/@sakshamtapadia10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshamtapadia10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sakshamtapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakshamtapadia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sakshamtapadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakshamtapadia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sakshamtapadia10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshamtapadia10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakshamtapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakshamtapadia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saksham_tapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saksham_tapadia" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sakshamtapadia10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sakshamtapadia10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sakshamtapadia10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakshamtapadia10" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sakshamtapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sakshamtapadia" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Hi+there!+I'm+Saksham+%F0%9F%91%8B;Passionate+Data+Scientist+%26+ML+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Music+%2B+Tech+Lover+%F0%9F%8E%B5%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Top Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakshamTapadia&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="profile views" />
+  <a href="https://twitter.com/saksham_tapadia" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/saksham_tapadia?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000" alt="twitter follow" />
+  </a>
+  <a href="https://linkedin.com/in/saksham-tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://kaggle.com/sakshamtapadia02" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  </a>
+  <a href="https://medium.com/@sakshamtapadia10" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sakshamtapadia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sakshamtapadia" /></a></p><br><br>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamtapadia&show_icons=true&locale=en&layout=compact" alt="sakshamtapadia" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamtapadia&show_icons=true&locale=en" alt="sakshamtapadia" /></p>
+<!-- About Me -->
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamtapadia&" alt="sakshamtapadia" /></p>
+## 👨‍💻 About Me
+
+🔭 Currently working on **Machine Learning Projects & DSA**
+
+🌱 Deep-diving into **Advanced Data Analytics & AI/ML**
+
+👯 Looking to collaborate with **Data & Software Engineers**
+
+💡 Passionate about **Data Science, Analytics & ML**
+
+✍️ I write technical articles on [Medium](https://medium.com/@sakshamtapadia10)
+
+💬 Ask me about **Anything tech — I love it all!**
+
+📫 Reach me at **sakshamtapadia10@gmail.com**
+
+📄 View my [Resume](https://drive.google.com/file/d/1NDTlpQdt2NhkJa0sJeIMQHg7KVAHfxPr/view?usp=drive_link)
+
+⚡ Fun fact: **Music + Code = My happy place 🎵💻**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SakshamTapadia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamTapadia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamTapadia&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SakshamTapadia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamTapadia&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="contribution graph" />
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/output/github-snake.svg" width="100%" />
+</picture>
+
+
+
+---
+
+## 📌 Featured Projects
+
+> 💡 **Tip:** Pin your top repositories on GitHub profile to showcase them here automatically.
+
+<p align="center">
+  <a href="https://github.com/SakshamTapadia?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/⭐_View_All_Repositories-tokyonight?style=for-the-badge&color=1a1b27&labelColor=70a5fd" />
+  </a>
+</p>
+
+<!--
+  Replace REPO_NAME_1 and REPO_NAME_2 below with your actual pinned repo names.
+  You can add up to 4 repo cards here (2 per row).
+-->
+<!--
+<p align="center">
+  <a href="https://github.com/SakshamTapadia/REPO_NAME_1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamTapadia&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SakshamTapadia/REPO_NAME_2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamTapadia&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+-->
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/saksham-tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/saksham_tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sakshamtapadia10" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/sakshamtapadia02" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/saksham_tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/sakshamtapadia10" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/22549691" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://dev.to/saksham_tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@saksham-tapadia" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/sakshamtapadia" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sakshamtapadia10" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="mailto:sakshamtapadia10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sakshamtapadia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you like my work, consider giving a ⭐ to my repositories!</i>
+</p>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
