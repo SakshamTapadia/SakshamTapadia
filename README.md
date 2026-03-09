@@ -133,14 +133,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/SakshamTapadia/SakshamTapadia/main/assets/metrics-achievements.svg" alt="Achievements" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamtapadia&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="contribution graph" />
