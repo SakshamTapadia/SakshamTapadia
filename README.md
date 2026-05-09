@@ -46,9 +46,7 @@
 
 💬 Ask me about **Anything tech — I love it all!**
 
-📫 Reach me at **sakshamtapadia10@gmail.com**
-
-📄 View my [Resume](https://drive.google.com/file/d/1NDTlpQdt2NhkJa0sJeIMQHg7KVAHfxPr/view?usp=drive_link)
+📫 Reach me at **sakshamtapadia02@gmail.com**
 
 ⚡ Fun fact: **Music + Code = My happy place 🎵💻**
 
